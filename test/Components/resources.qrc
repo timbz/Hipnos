@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>TestData/gaussfill.csv</file>
+        <file>TestData/aperture-trans.csv</file>
+        <file>TestData/aperture.csv</file>
+        <file>TestData/propagation.csv</file>
+        <file>TestData/propagation-trans.csv</file>
+        <file>TestData/propagation2.csv</file>
+        <file>TestData/lens.csv</file>
+        <file>TestData/lens-trans.csv</file>
+    </qresource>
+</RCC>

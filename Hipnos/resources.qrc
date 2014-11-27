@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/design.png</file>
+        <file>icons/eye.png</file>
+        <file>icons/designerstripe.png</file>
+        <file>icons/components/source.png</file>
+        <file>icons/components/thinlens.png</file>
+        <file>icons/components/drift.png</file>
+        <file>icons/zoom-out.png</file>
+        <file>icons/zoom-in.png</file>
+        <file>icons/delete.png</file>
+        <file>icons/group.png</file>
+        <file>icons/ungroup.png</file>
+        <file>icons/design-black.png</file>
+        <file>icons/chart.png</file>
+        <file>icons/chart-black.png</file>
+        <file>icons/eye-black.png</file>
+        <file>icons/export.png</file>
+        <file>icons/animations/loading.gif</file>
+        <file>icons/app-icon.png</file>
+        <file>icons/fourier-black.png</file>
+        <file>icons/fourier-white.png</file>
+        <file>icons/gauss-black.png</file>
+        <file>icons/gauss-white.png</file>
+        <file>icons/info.png</file>
+        <file>icons/animations/loading-black.gif</file>
+        <file>icons/csv.png</file>
+        <file>icons/components/circularaperture.png</file>
+        <file>icons/components/circularobstacle.png</file>
+        <file>icons/components/rectangularaperture.png</file>
+        <file>icons/components/rectangularobstacle.png</file>
+        <file>icons/components/csv-source.png</file>
+        <file>icons/delete-black.png</file>
+    </qresource>
+</RCC>
