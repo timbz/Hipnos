@@ -11,10 +11,14 @@ This diploma thesis presents a simulation software for high performance lasers. 
 
 ##Results
 
+![Propagation simulation of a laser beam using the gaussian beam model](https://raw.githubusercontent.com/timonbaetz/Hipnos/master/docs/img/sceen1.png "Propagation simulation of a laser beam using the gaussian beam model")
 
-Propagation simulation of a laser beam using the gaussian beam model
+![Propagation simulation of a laser beam with fourier optics](https://raw.githubusercontent.com/timonbaetz/Hipnos/master/docs/img/sceen2.png "Propagation simulation of a laser beam with fourier optics")
 
-Propagation simulation of a laser beam with fourier optics
+## Dependecies
+
+* Qt 4
+* VTK 5
 
 ##Build:
 0. Install the Qt SDK
